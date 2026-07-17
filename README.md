@@ -13,7 +13,7 @@ This code is intended for biostatisticians involved in the design and evaluation
   - Supporting functions for BOIN12-PFS simulations
 
 - `boin12_pfs_simulation.R`
-  - Main simulation program for Operating characteristic evaluation
+  - Main simulation program for operating characteristic evaluation
 
 ## Requirements
 
